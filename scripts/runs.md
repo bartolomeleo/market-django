@@ -23,3 +23,13 @@
 `pip install -r requirements.txt`
 
 ### Create django project
+
+`django-admin startproject <project_name>`
+
+### Start app
+
+- cd to the project
+
+`python manage.py runserver`
+
+`python manage.py startapp core`
